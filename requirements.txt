@@ -6,3 +6,5 @@ seaborn
 argparse
 reportlab
 analysis
+nltk
+import-ipynb
