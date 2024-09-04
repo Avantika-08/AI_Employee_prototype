@@ -4,4 +4,5 @@ scikit-learn
 matplotlib
 seaborn
 argparse
-json
+reportlab
+analysis
