@@ -36,7 +36,7 @@ Example Dataset
 Your dataset should be in CSV format with columns like:
 
 Rank	Country	Country Code	Gold	Silver	Bronze	Total
-1	     USA	     US	         40	      44	  42	 126
+1	     USA	       US	       40	      44	  42	 126
 2	     China	     CHN	     40	      27	  24	 91
 3	     Japan	     JPN	     20	      12	  13	 45
 ```
