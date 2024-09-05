@@ -35,10 +35,12 @@ Enter command (run analysis, generate report, quit): run analysis
 Example Dataset
 Your dataset should be in CSV format with columns like:
 
-Rank	Country	 Country Code	Gold	Silver	 Bronze	 Total
-1	     USA	     US	         40	      44	  42	  126
-2	     China	     CHN	     40	      27	  24	  91
-3	     Japan	     JPN	     20	      12	  13	  45
+| Rank |  Country | Country Code | Gold | Silver | Bronze | Total |                      
+|:----:|:--------:|:------------:|:----:|:------:|:------:|:-----:|
+|   1  |   USA    |      US      |  40  |   44   |   42   |  126  |
+|   2  |   China  |      CHN     |  40  |   27   |   24   |   91  |
+|   3  |   Japan  |      JPN     |  20  |   12   |   13   |   45  |   
+
 ```
 ## Testing
 Since all functions are in main.ipynb, you can run tests directly in the notebook. For more complex testing, consider using tools like unittest or pytest in the future to write test cases for critical functions.
